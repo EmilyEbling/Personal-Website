@@ -1,13 +1,27 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import NavBar from './components/NavBar/NavBar'
+import Home from './components/Home/Home'
+import Introduction from './components/Introduction/Introduction'
+import Skills from './components/Skills/Skills'
+import Projects from './components/Projects/Projects'
+import Experience from './components/Experience/Experience'
+import Contact from './components/Contact/Contact'
+import Footer from './components/Footer/Footer'
+
+
+import './index.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-       <h1>Emily Ebling's Website ha ha</h1>
-      </header>
+      <NavBar></NavBar>
+      <Home></Home>
+      <Introduction></Introduction>
+      <Skills></Skills>
+      <Projects></Projects>
+      <Experience></Experience>
+      <Contact></Contact>
+      <Footer></Footer>
     </div>
   );
 }
