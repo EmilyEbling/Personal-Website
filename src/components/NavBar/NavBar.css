@@ -1,0 +1,35 @@
+/* ---- Main Nav ---- */
+
+.mainNav {
+    margin-top: 40px;
+    padding: 20px 10%;
+    list-style: none;
+    position: relative;
+    z-index: 9999;
+}
+
+.mainNav li {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.mainNav li a:link,
+.mainNav li a:visited {
+    margin: 0 auto;
+    padding: 10px 10px;
+    color: #191e25;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    border: 2px solid transparent;
+    -webkit-transition: border .2s;
+    -o-transition: border .2s;
+    transition: border .2s;
+}
+
+.mainNav li a:hover,
+.mainNav li a:active {
+    margin: 0 auto;
+    border: 2px solid #191e25;
+    padding: 10px;
+}

@@ -1,0 +1,25 @@
+.Project {
+    width: 60%;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+}
+
+.code a:link,
+.code a:visited {
+    color: #566a80;
+    text-decoration: none;
+    padding-bottom: 1px;
+    border-bottom: 1px solid #566a80;
+    -webkit-transition: border-bottom .2s, color .2s;
+    -o-transition: border-bottom .2s, color .2s;
+    transition: border-bottom .2s, color .2s;
+}
+
+.code a:hover,
+.code a:active {
+    color: #191e25;
+    border-bottom: transparent;
+}

@@ -1,12 +1,13 @@
 import React, { Component } from 'react'
+import './NavBar.css'
 
 class NavBar extends Component {
     render() {
         return (
             <div>
                 <nav>
-                    <div class="row">
-                        <ul class="mainNav jsMainNav">
+                    <div>
+                        <ul className='mainNav'>
                             <li><a href="#home">Home</a></li>
                             <li><a href="#about">About Me</a></li>
                             <li><a href="#skill">Skills</a></li>

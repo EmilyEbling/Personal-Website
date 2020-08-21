@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Recipe Website",
+        "description": "A website developed and designed in React.js to share recipes with the gluten free community.",
+        "link": "https://github.com/EmilyEbling/Recipe-Website"
+    },
+    {
+        "name": "This Website",
+        "description": "The code for this website, which was designed to highlight my skills and abilities as a programmer.",
+        "link": "https://github.com/EmilyEbling/Personal-Website"
+    },
+    {
+        "name": "Beer Tracker",
+        "description": "A cross-platform mobile application designed with Xamarin (C#) to keep track of your favorite beers.",
+        "link": "https://github.com/EmilyEbling/BeerTracker"
+    }
+]
