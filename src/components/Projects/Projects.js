@@ -7,13 +7,12 @@ class Projects extends Component {
         return (
             <div>
                {data.map((projectData) => {
-                   console.log(projectData);
                    return (
-                        <div>
-                            <Project 
-                                name={projectData.name} 
-                                description={projectData.description}
-                                link={projectData.link}/>
+                        <div key={projectData.name}>
+                            <Project
+                            name={projectData.name} 
+                            description={projectData.description}
+                            link={projectData.link}/>    
                         </div>
                    );
                })}

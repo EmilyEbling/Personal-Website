@@ -1,0 +1,18 @@
+[
+    {
+        "type": "Languages",
+        "skills": ["Java", "Python", "SQL", "HTML", "CSS", "React.js", "C"]
+    },
+    {
+        "type": "Software",
+        "skills": ["VS Code", "PyCharm", "GitKraken", "Eclipse", "Xcode", "GitHub"]
+    },
+    {
+        "type": "OS",
+        "skills": ["Mac/Unix", "Windows", "Linux"]
+    },
+    {
+        "type": "Professional",
+        "skills": ["Git", "Jenkins", "Unit Testing", "Agile/Scrum", "AWS", "Detail-Oriented", "Organized", "Creative Thinking"]
+    }
+]

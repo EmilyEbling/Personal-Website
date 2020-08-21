@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Quality Engineer",
+        "company": "Elsevier",
+        "date": "June 2019 - Present",
+        "description": [
+            "Develops automated tests in Python for Elsevier's ClinicalPath product",
+            "Increased test automation coverage from 0% to 55% in one year of service",
+            "Collaborates in Agile environment using scrum guidelines"
+        ]
+    },
+    {
+        "title":"Computer Science Lab Assistant",
+        "company": "Elizabethtown College",
+        "date": "August 2017 - May 2019",
+        "description": ["Assisted students in all class years with homework and projects in the computer science curriculum at Elizabethtown College"]
+    },
+    {
+        "title": "Application Development Intern",
+        "company": "Global Data Consultants",
+        "date": "Summer 2018",
+        "description": ["Implemented mobile application to accept/decline timesheets using Xamarin Forms and C#"]
+    },
+    {
+        "title": "Computer Science Intern",
+        "company": "Software Consulting Services",
+        "date": "Summer 2017",
+        "description": ["Programmed software for newspaper systems in language most similar to Pascal"]
+    }
+]
