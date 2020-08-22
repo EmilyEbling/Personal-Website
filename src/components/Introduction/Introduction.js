@@ -6,9 +6,9 @@ class Introduction extends Component {
             <div>
                 <div>
                     <p>
-                        My name is Emily, and I am a recent graduate of Elizabethtown College in central Pennsylvania. I recieved a Bachelor of Science degree in Computer Science, and
-                        I also have minors in Mathematics and German. Developing software is not only a hobby of mine, but what I
-                        want to spend the rest of my life doing, and I am excited to have accepted an offer as a software engineer with Elsevier. 
+                        My name is Emily, and I graduated from Elizabethtown College in May 2019 with a Bachelor of Science degree in Computer Science. 
+                        I also have minors in Mathematics and German. I accepted an opportunity with Elsevier as a quality engineer after my graduation 
+                        and am currently improving my skills in front end development with the hope of pursuing a career in that area. 
                     </p>
                 </div>
                 <div>

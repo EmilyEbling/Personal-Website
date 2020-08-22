@@ -8,11 +8,11 @@
         "skills": ["VS Code", "PyCharm", "GitKraken", "Eclipse", "Xcode", "GitHub"]
     },
     {
-        "type": "OS",
-        "skills": ["Mac/Unix", "Windows", "Linux"]
-    },
-    {
         "type": "Professional",
         "skills": ["Git", "Jenkins", "Unit Testing", "Agile/Scrum", "AWS", "Detail-Oriented", "Organized", "Creative Thinking"]
+    },
+    {
+        "type": "OS",
+        "skills": ["Mac/Unix", "Windows", "Linux"]
     }
 ]
